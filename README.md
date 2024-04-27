@@ -47,12 +47,13 @@ Create a Node.js server application. The server should listen for api requests o
 
 Create the Dockerfile for running the application. I will need help to get this running on my laptop.
 
-Create a csv data set that includes the top rock and roll records from the 60s to the 80s and includes title of album, date of release, and name the band. \
+Create a csv data set that includes the top rock and roll records from the 60s to the 80s and includes title of album, date of release, and name the band.
 
 Create the Node.js api code to read the csv file and respond to the api requests. The api should include:
 
-return the entire data set in json
-retreive any single album record by name or partial name
-retreive records by date or range of dates
-retreive albums by band name or partial
+1. return the entire data set in json
+2. retreive any single album record by name or partial name
+3. retreive records by date or range of dates
+4. retreive albums by band name or partial
+
 Once i create these files I will need instruction on getting the container deployed using docker-ce
